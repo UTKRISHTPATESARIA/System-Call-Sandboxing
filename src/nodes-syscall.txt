@@ -1,0 +1,23 @@
+1 write
+1 futex
+2 write lo
+2 futex lo
+3 openat
+3 rt_sigprocmask
+3 futex
+3 getpid
+3 gettid
+3 tgkill
+3 rt_sigprocmask
+3 futex
+3 sys_718
+3 writev
+3 sys_718
+3 mmap
+3 munmap
+3 futex
+4 write lo
+4 futex lo
+5 close
+5 futex
+6 exit_group
